@@ -1,4 +1,4 @@
-const API = '/api';
+const API = 'https://plateplan-backend-2g3r.onrender.com/api';
 
 async function request(url, options = {}) {
   const response = await fetch(url, {
