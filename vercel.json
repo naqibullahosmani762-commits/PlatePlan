@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://plateplan-backend-2g3r.onrender.com/api/$1"
+    }
+  ]
+}
